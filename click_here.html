@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>F1 timing replay</title>
+<link rel="stylesheet" href="project_files/site/style.css">
+</head>
+<body>
+<header id="topbar">
+  <span class="badge-replay" id="badge">REPLAY</span>
+  <div id="title-block">
+    <div id="event-name"></div>
+    <div id="event-meta"><span id="event-date"></span><span id="source-tag" class="srctag"></span><span id="replay-note">Replay of past data, not live.</span></div>
+  </div>
+  <div id="transport">
+    <button id="btn-play" type="button" title="Play or pause (space)">Play</button>
+    <span id="speeds" class="seg"></span>
+    <input id="scrub" type="range" min="0" max="1" step="0.1" value="0" aria-label="Replay position">
+    <label class="jump">Lap <input id="jump-lap" type="number" min="1" step="1" value="1"></label>
+    <button id="btn-jump" type="button">Jump</button>
+  </div>
+  <button id="btn-library" type="button">Library</button>
+</header>
+
+<div id="banner" hidden><span id="banner-text"></span></div>
+
+<div id="headerbar">
+  <div class="hb"><span class="lbl">LAP</span><span id="h-lap" class="big mono">n/a</span></div>
+  <div class="hb"><span class="lbl">ELAPSED</span><span id="h-elapsed" class="big mono">n/a</span></div>
+  <div class="hb"><span class="lbl">REMAINING <span class="est">EST</span></span><span id="h-remaining" class="big mono">n/a</span></div>
+  <div class="hb"><span class="lbl">TRACK</span><span id="h-track" class="pill">n/a</span></div>
+  <div id="track-status" class="only-full"></div>
+  <div id="h-ticker" class="only-full dim"></div>
+  <div class="hb grow"><span class="lbl">REPLAY CLOCK</span><span id="h-clock" class="mono dim">n/a</span></div>
+</div>
+
+<main id="stage">
+  <section class="panel" id="tower-panel">
+    <div class="panel-head"><h2>Timing tower</h2></div>
+    <div class="panel-body flush" id="tower-body"><div id="tower-scroll"><div id="tower"></div></div></div>
+    <div class="caption">Mini-sectors are computed from car speed, not official. OUT is a <span class="est">heuristic</span>. Click a row to chart its pace.</div>
+  </section>
+
+  <div id="right">
+    <section class="panel only-full" id="map-panel">
+      <div class="panel-head"><h2>Track map</h2></div>
+      <div class="panel-body flush"><div id="map"></div></div>
+      <div class="caption">Last known raw position of each car</div>
+    </section>
+
+    <section class="panel" id="info-panel">
+      <div class="panel-head">
+        <h2 class="only-lap">Weather now</h2>
+        <div class="tabs only-full" role="tablist">
+          <button type="button" role="tab" data-tab="telemetry" class="on">Telemetry</button>
+          <button type="button" role="tab" data-tab="feed">Race control</button>
+          <button type="button" role="tab" data-tab="weather">Weather</button>
+        </div>
+        <span class="note dim only-full" id="tel-driver"></span>
+      </div>
+      <div class="panel-body tabpane" id="pane-telemetry" data-pane="telemetry">
+        <div id="telemetry"></div>
+        <div class="subhead">Speed trace, last completed lap</div>
+        <div id="trace"></div>
+      </div>
+      <div class="panel-body tabpane only-full" id="pane-feed" data-pane="feed" hidden><div id="feed"></div></div>
+      <div class="panel-body tabpane" id="pane-weather" data-pane="weather" hidden>
+        <div id="weather"></div>
+        <div id="forecast-wrap">
+          <div class="subhead">Forecast</div>
+          <div id="forecast"></div>
+          <div class="caption flat">Open-Meteo archived model forecast for the circuit location. Not the forecast teams receive.</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel only-lap" id="pits-panel">
+      <div class="panel-head"><h2>Pit stops</h2></div>
+      <div class="panel-body">
+        <div id="pitloss-lap" class="pitloss"></div>
+        <div id="strategy-lap"></div>
+      </div>
+    </section>
+
+    <section class="panel only-lap" id="missing-panel">
+      <div class="panel-head"><h2>Not available for this race</h2></div>
+      <div class="panel-body"><ul id="missing-list"></ul></div>
+    </section>
+  </div>
+</main>
+
+<h2 id="analysis-title">Race analysis</h2>
+<div id="analysis">
+  <section class="panel c7 lap12" id="standings-panel">
+    <div class="panel-head"><h2>Championship if the race ended now</h2></div>
+    <div class="panel-body"><div class="two"><div id="st-drivers"></div><div id="st-teams"></div></div></div>
+    <div class="caption" id="standings-note"></div>
+  </section>
+  <section class="panel c5 only-full" id="strategy-panel">
+    <div class="panel-head"><h2>Strategy</h2></div>
+    <div class="panel-body"><div id="pitloss" class="pitloss"></div><div id="strategy"></div></div>
+  </section>
+  <section class="panel c12" id="stint-panel">
+    <div class="panel-head"><h2>Stint history</h2></div>
+    <div class="panel-body"><div id="stintchart"></div></div>
+    <div class="caption" id="stint-note"></div>
+  </section>
+  <section class="panel c8 lap12" id="pace-panel">
+    <div class="panel-head"><h2>Lap time pace</h2></div>
+    <div class="panel-body"><div id="pacechart"></div></div>
+    <div class="caption" id="pace-note"></div>
+  </section>
+  <section class="panel c4 only-full" id="tyreset-panel">
+    <div class="panel-head"><h2>Tyre sets used in the race</h2></div>
+    <div class="panel-body"><div id="tyresets"></div></div>
+    <div class="caption">Remaining sets are not public data.</div>
+  </section>
+  <section class="panel c12" id="upgrades-panel">
+    <div class="panel-head"><h2>Team upgrades</h2></div>
+    <div class="panel-body"><div id="upgrades"></div></div>
+  </section>
+</div>
+
+<div id="library" class="overlay" hidden></div>
+<div id="loading" class="overlay" hidden></div>
+
+<footer>Unofficial replay of past data from OpenF1, Jolpica-F1 and Open-Meteo. Not associated with Formula 1, the FIA or any team.</footer>
+<script src="project_files/site/js/constants.js"></script>
+<script src="project_files/site/js/data.js"></script>
+<script src="project_files/site/data/library.js"></script>
+<script src="project_files/site/js/format.js"></script>
+<script src="project_files/site/js/engine.js"></script>
+<script src="project_files/site/js/tower.js"></script>
+<script src="project_files/site/js/panels.js"></script>
+<script src="project_files/site/js/standings.js"></script>
+<script src="project_files/site/js/strategy.js"></script>
+<script src="project_files/site/js/library.js"></script>
+<script src="project_files/site/js/app.js"></script>
+</body>
+</html>

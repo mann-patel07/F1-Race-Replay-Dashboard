@@ -1,0 +1,7142 @@
+{
+"generated": "2026-11-17",
+"seasons": {
+"2007": [
+{
+"season": 2007,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2007-03-18",
+"time": "03:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 2,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2007-04-08",
+"time": "07:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 3,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2007-04-15",
+"time": "11:30:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 4,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2007-05-13",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 5,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2007-05-27",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 6,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2007-06-10",
+"time": "17:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 7,
+"name": "United States Grand Prix",
+"circuit": "Indianapolis Motor Speedway",
+"locality": "Indianapolis",
+"country": "USA",
+"date": "2007-06-17",
+"time": "17:00:00Z",
+"lat": 39.795,
+"lon": -86.2347,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 8,
+"name": "French Grand Prix",
+"circuit": "Circuit de Nevers Magny-Cours",
+"locality": "Magny Cours",
+"country": "France",
+"date": "2007-07-01",
+"time": "12:00:00Z",
+"lat": 46.8642,
+"lon": 3.16361,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 9,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2007-07-08",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 10,
+"name": "European Grand Prix",
+"circuit": "N\u00fcrburgring",
+"locality": "N\u00fcrburg",
+"country": "Germany",
+"date": "2007-07-22",
+"time": "12:00:00Z",
+"lat": 50.3356,
+"lon": 6.9475,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2007-08-05",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 12,
+"name": "Turkish Grand Prix",
+"circuit": "Istanbul Park",
+"locality": "Istanbul",
+"country": "Turkey",
+"date": "2007-08-26",
+"time": "12:00:00Z",
+"lat": 40.9517,
+"lon": 29.405,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 13,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2007-09-09",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 14,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2007-09-16",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 15,
+"name": "Japanese Grand Prix",
+"circuit": "Fuji Speedway",
+"locality": "Oyama",
+"country": "Japan",
+"date": "2007-09-30",
+"time": "04:30:00Z",
+"lat": 35.3717,
+"lon": 138.927,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 16,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2007-10-07",
+"time": "06:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2007,
+"round": 17,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2007-10-21",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2008": [
+{
+"season": 2008,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2008-03-16",
+"time": "04:30:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 2,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2008-03-23",
+"time": "07:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 3,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2008-04-06",
+"time": "11:30:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 4,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2008-04-27",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 5,
+"name": "Turkish Grand Prix",
+"circuit": "Istanbul Park",
+"locality": "Istanbul",
+"country": "Turkey",
+"date": "2008-05-11",
+"time": "12:00:00Z",
+"lat": 40.9517,
+"lon": 29.405,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2008-05-25",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2008-06-08",
+"time": "17:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 8,
+"name": "French Grand Prix",
+"circuit": "Circuit de Nevers Magny-Cours",
+"locality": "Magny Cours",
+"country": "France",
+"date": "2008-06-22",
+"time": "12:00:00Z",
+"lat": 46.8642,
+"lon": 3.16361,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 9,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2008-07-06",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 10,
+"name": "German Grand Prix",
+"circuit": "Hockenheimring",
+"locality": "Hockenheim",
+"country": "Germany",
+"date": "2008-07-20",
+"time": "12:00:00Z",
+"lat": 49.3278,
+"lon": 8.56583,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2008-08-03",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 12,
+"name": "European Grand Prix",
+"circuit": "Valencia Street Circuit",
+"locality": "Valencia",
+"country": "Spain",
+"date": "2008-08-24",
+"time": "12:00:00Z",
+"lat": 39.4589,
+"lon": -0.331667,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 13,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2008-09-07",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 14,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2008-09-14",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 15,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2008-09-28",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 16,
+"name": "Japanese Grand Prix",
+"circuit": "Fuji Speedway",
+"locality": "Oyama",
+"country": "Japan",
+"date": "2008-10-12",
+"time": "04:30:00Z",
+"lat": 35.3717,
+"lon": 138.927,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 17,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2008-10-19",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2008,
+"round": 18,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2008-11-02",
+"time": "17:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2009": [
+{
+"season": 2009,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2009-03-29",
+"time": "06:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 2,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2009-04-05",
+"time": "09:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 3,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2009-04-19",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 4,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2009-04-26",
+"time": "12:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2009-05-10",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2009-05-24",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 7,
+"name": "Turkish Grand Prix",
+"circuit": "Istanbul Park",
+"locality": "Istanbul",
+"country": "Turkey",
+"date": "2009-06-07",
+"time": "12:00:00Z",
+"lat": 40.9517,
+"lon": 29.405,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 8,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2009-06-21",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 9,
+"name": "German Grand Prix",
+"circuit": "N\u00fcrburgring",
+"locality": "N\u00fcrburg",
+"country": "Germany",
+"date": "2009-07-12",
+"time": "12:00:00Z",
+"lat": 50.3356,
+"lon": 6.9475,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 10,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2009-07-26",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 11,
+"name": "European Grand Prix",
+"circuit": "Valencia Street Circuit",
+"locality": "Valencia",
+"country": "Spain",
+"date": "2009-08-23",
+"time": "12:00:00Z",
+"lat": 39.4589,
+"lon": -0.331667,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 12,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2009-08-30",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 13,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2009-09-13",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 14,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2009-09-27",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 15,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2009-10-04",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 16,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2009-10-18",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2009,
+"round": 17,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2009-11-01",
+"time": "11:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2010": [
+{
+"season": 2010,
+"round": 1,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2010-03-14",
+"time": "12:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 2,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2010-03-28",
+"time": "06:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 3,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2010-04-04",
+"time": "08:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 4,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2010-04-18",
+"time": "06:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2010-05-09",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2010-05-16",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 7,
+"name": "Turkish Grand Prix",
+"circuit": "Istanbul Park",
+"locality": "Istanbul",
+"country": "Turkey",
+"date": "2010-05-30",
+"time": "11:00:00Z",
+"lat": 40.9517,
+"lon": 29.405,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 8,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2010-06-13",
+"time": "16:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 9,
+"name": "European Grand Prix",
+"circuit": "Valencia Street Circuit",
+"locality": "Valencia",
+"country": "Spain",
+"date": "2010-06-27",
+"time": "12:00:00Z",
+"lat": 39.4589,
+"lon": -0.331667,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 10,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2010-07-11",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 11,
+"name": "German Grand Prix",
+"circuit": "Hockenheimring",
+"locality": "Hockenheim",
+"country": "Germany",
+"date": "2010-07-25",
+"time": "12:00:00Z",
+"lat": 49.3278,
+"lon": 8.56583,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 12,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2010-08-01",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 13,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2010-08-29",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 14,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2010-09-12",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 15,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2010-09-26",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 16,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2010-10-10",
+"time": "06:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 17,
+"name": "Korean Grand Prix",
+"circuit": "Korean International Circuit",
+"locality": "Yeongam County",
+"country": "Korea",
+"date": "2010-10-24",
+"time": "05:00:00Z",
+"lat": 34.7333,
+"lon": 126.417,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 18,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2010-11-07",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2010,
+"round": 19,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2010-11-14",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2011": [
+{
+"season": 2011,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2011-03-27",
+"time": "06:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 2,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2011-04-10",
+"time": "08:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 3,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2011-04-17",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 4,
+"name": "Turkish Grand Prix",
+"circuit": "Istanbul Park",
+"locality": "Istanbul",
+"country": "Turkey",
+"date": "2011-05-08",
+"time": "12:00:00Z",
+"lat": 40.9517,
+"lon": 29.405,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2011-05-22",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2011-05-29",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2011-06-12",
+"time": "17:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 8,
+"name": "European Grand Prix",
+"circuit": "Valencia Street Circuit",
+"locality": "Valencia",
+"country": "Spain",
+"date": "2011-06-26",
+"time": "12:00:00Z",
+"lat": 39.4589,
+"lon": -0.331667,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 9,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2011-07-10",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 10,
+"name": "German Grand Prix",
+"circuit": "N\u00fcrburgring",
+"locality": "N\u00fcrburg",
+"country": "Germany",
+"date": "2011-07-24",
+"time": "12:00:00Z",
+"lat": 50.3356,
+"lon": 6.9475,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2011-07-31",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 12,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2011-08-28",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 13,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2011-09-11",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 14,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2011-09-25",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 15,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2011-10-09",
+"time": "06:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 16,
+"name": "Korean Grand Prix",
+"circuit": "Korean International Circuit",
+"locality": "Yeongam County",
+"country": "Korea",
+"date": "2011-10-16",
+"time": "06:00:00Z",
+"lat": 34.7333,
+"lon": 126.417,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 17,
+"name": "Indian Grand Prix",
+"circuit": "Buddh International Circuit",
+"locality": "Uttar Pradesh",
+"country": "India",
+"date": "2011-10-30",
+"time": "09:30:00Z",
+"lat": 28.3487,
+"lon": 77.5331,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 18,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2011-11-13",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2011,
+"round": 19,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2011-11-27",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2012": [
+{
+"season": 2012,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2012-03-18",
+"time": "06:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 2,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2012-03-25",
+"time": "08:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 3,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2012-04-15",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 4,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2012-04-22",
+"time": "12:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2012-05-13",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2012-05-27",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2012-06-10",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 8,
+"name": "European Grand Prix",
+"circuit": "Valencia Street Circuit",
+"locality": "Valencia",
+"country": "Spain",
+"date": "2012-06-24",
+"time": "12:00:00Z",
+"lat": 39.4589,
+"lon": -0.331667,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 9,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2012-07-08",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 10,
+"name": "German Grand Prix",
+"circuit": "Hockenheimring",
+"locality": "Hockenheim",
+"country": "Germany",
+"date": "2012-07-22",
+"time": "12:00:00Z",
+"lat": 49.3278,
+"lon": 8.56583,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2012-07-29",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 12,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2012-09-02",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 13,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2012-09-09",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 14,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2012-09-23",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 15,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2012-10-07",
+"time": "06:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 16,
+"name": "Korean Grand Prix",
+"circuit": "Korean International Circuit",
+"locality": "Yeongam County",
+"country": "Korea",
+"date": "2012-10-14",
+"time": "06:00:00Z",
+"lat": 34.7333,
+"lon": 126.417,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 17,
+"name": "Indian Grand Prix",
+"circuit": "Buddh International Circuit",
+"locality": "Uttar Pradesh",
+"country": "India",
+"date": "2012-10-28",
+"time": "09:30:00Z",
+"lat": 28.3487,
+"lon": 77.5331,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 18,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2012-11-04",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 19,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2012-11-18",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2012,
+"round": 20,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2012-11-25",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2013": [
+{
+"season": 2013,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2013-03-17",
+"time": "06:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 2,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2013-03-24",
+"time": "08:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 3,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2013-04-14",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 4,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2013-04-21",
+"time": "12:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2013-05-12",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2013-05-26",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2013-06-09",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 8,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2013-06-30",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 9,
+"name": "German Grand Prix",
+"circuit": "N\u00fcrburgring",
+"locality": "N\u00fcrburg",
+"country": "Germany",
+"date": "2013-07-07",
+"time": "12:00:00Z",
+"lat": 50.3356,
+"lon": 6.9475,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 10,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2013-07-28",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 11,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2013-08-25",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 12,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2013-09-08",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 13,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2013-09-22",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 14,
+"name": "Korean Grand Prix",
+"circuit": "Korean International Circuit",
+"locality": "Yeongam County",
+"country": "Korea",
+"date": "2013-10-06",
+"time": "06:00:00Z",
+"lat": 34.7333,
+"lon": 126.417,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 15,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2013-10-13",
+"time": "06:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 16,
+"name": "Indian Grand Prix",
+"circuit": "Buddh International Circuit",
+"locality": "Uttar Pradesh",
+"country": "India",
+"date": "2013-10-27",
+"time": "09:30:00Z",
+"lat": 28.3487,
+"lon": 77.5331,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 17,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2013-11-03",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 18,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2013-11-17",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2013,
+"round": 19,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2013-11-24",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2014": [
+{
+"season": 2014,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2014-03-16",
+"time": "06:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 2,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2014-03-30",
+"time": "08:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 3,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2014-04-06",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 4,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2014-04-20",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2014-05-11",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2014-05-25",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2014-06-08",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 8,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2014-06-22",
+"time": "12:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 9,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2014-07-06",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 10,
+"name": "German Grand Prix",
+"circuit": "Hockenheimring",
+"locality": "Hockenheim",
+"country": "Germany",
+"date": "2014-07-20",
+"time": "12:00:00Z",
+"lat": 49.3278,
+"lon": 8.56583,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2014-07-27",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 12,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2014-08-24",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 13,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2014-09-07",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 14,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2014-09-21",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 15,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2014-10-05",
+"time": "06:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 16,
+"name": "Russian Grand Prix",
+"circuit": "Sochi Autodrom",
+"locality": "Sochi",
+"country": "Russia",
+"date": "2014-10-12",
+"time": "11:00:00Z",
+"lat": 43.4057,
+"lon": 39.9578,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 17,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2014-11-02",
+"time": "20:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 18,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2014-11-09",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2014,
+"round": 19,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2014-11-23",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2015": [
+{
+"season": 2015,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2015-03-15",
+"time": "05:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 2,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2015-03-29",
+"time": "07:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 3,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2015-04-12",
+"time": "06:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 4,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2015-04-19",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2015-05-10",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2015-05-24",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2015-06-07",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 8,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2015-06-21",
+"time": "12:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 9,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2015-07-05",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 10,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2015-07-26",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 11,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2015-08-23",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 12,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2015-09-06",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 13,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2015-09-20",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 14,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2015-09-27",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 15,
+"name": "Russian Grand Prix",
+"circuit": "Sochi Autodrom",
+"locality": "Sochi",
+"country": "Russia",
+"date": "2015-10-11",
+"time": "11:00:00Z",
+"lat": 43.4057,
+"lon": 39.9578,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 16,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2015-10-25",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 17,
+"name": "Mexican Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2015-11-01",
+"time": "19:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 18,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2015-11-15",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2015,
+"round": 19,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2015-11-29",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2016": [
+{
+"season": 2016,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2016-03-20",
+"time": "05:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 2,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2016-04-03",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 3,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2016-04-17",
+"time": "06:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 4,
+"name": "Russian Grand Prix",
+"circuit": "Sochi Autodrom",
+"locality": "Sochi",
+"country": "Russia",
+"date": "2016-05-01",
+"time": "12:00:00Z",
+"lat": 43.4057,
+"lon": 39.9578,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2016-05-15",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2016-05-29",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2016-06-12",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 8,
+"name": "European Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2016-06-19",
+"time": "13:00:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 9,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2016-07-03",
+"time": "12:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 10,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2016-07-10",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2016-07-24",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 12,
+"name": "German Grand Prix",
+"circuit": "Hockenheimring",
+"locality": "Hockenheim",
+"country": "Germany",
+"date": "2016-07-31",
+"time": "12:00:00Z",
+"lat": 49.3278,
+"lon": 8.56583,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 13,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2016-08-28",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 14,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2016-09-04",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 15,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2016-09-18",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 16,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2016-10-02",
+"time": "07:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 17,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2016-10-09",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 18,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2016-10-23",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 19,
+"name": "Mexican Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2016-10-30",
+"time": "19:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 20,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2016-11-13",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2016,
+"round": 21,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2016-11-27",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2017": [
+{
+"season": 2017,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2017-03-26",
+"time": "05:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 2,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2017-04-09",
+"time": "06:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 3,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2017-04-16",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 4,
+"name": "Russian Grand Prix",
+"circuit": "Sochi Autodrom",
+"locality": "Sochi",
+"country": "Russia",
+"date": "2017-04-30",
+"time": "12:00:00Z",
+"lat": 43.4057,
+"lon": 39.9578,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2017-05-14",
+"time": "12:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2017-05-28",
+"time": "12:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2017-06-11",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 8,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2017-06-25",
+"time": "13:00:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 9,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2017-07-09",
+"time": "12:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 10,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2017-07-16",
+"time": "12:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2017-07-30",
+"time": "12:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 12,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2017-08-27",
+"time": "12:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 13,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2017-09-03",
+"time": "12:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 14,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2017-09-17",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 15,
+"name": "Malaysian Grand Prix",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2017-10-01",
+"time": "07:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 16,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2017-10-08",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 17,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2017-10-22",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 18,
+"name": "Mexican Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2017-10-29",
+"time": "19:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 19,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2017-11-12",
+"time": "16:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2017,
+"round": 20,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2017-11-26",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2018": [
+{
+"season": 2018,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2018-03-25",
+"time": "05:10:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 2,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2018-04-08",
+"time": "15:10:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 3,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2018-04-15",
+"time": "06:10:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 4,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2018-04-29",
+"time": "12:10:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2018-05-13",
+"time": "13:10:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2018-05-27",
+"time": "13:10:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2018-06-10",
+"time": "18:10:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 8,
+"name": "French Grand Prix",
+"circuit": "Circuit Paul Ricard",
+"locality": "Le Castellet",
+"country": "France",
+"date": "2018-06-24",
+"time": "14:10:00Z",
+"lat": 43.2506,
+"lon": 5.79167,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 9,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2018-07-01",
+"time": "13:10:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 10,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2018-07-08",
+"time": "13:10:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 11,
+"name": "German Grand Prix",
+"circuit": "Hockenheimring",
+"locality": "Hockenheim",
+"country": "Germany",
+"date": "2018-07-22",
+"time": "13:10:00Z",
+"lat": 49.3278,
+"lon": 8.56583,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 12,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2018-07-29",
+"time": "13:10:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 13,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2018-08-26",
+"time": "13:10:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 14,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2018-09-02",
+"time": "13:10:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 15,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2018-09-16",
+"time": "12:10:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 16,
+"name": "Russian Grand Prix",
+"circuit": "Sochi Autodrom",
+"locality": "Sochi",
+"country": "Russia",
+"date": "2018-09-30",
+"time": "11:10:00Z",
+"lat": 43.4057,
+"lon": 39.9578,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 17,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2018-10-07",
+"time": "05:10:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 18,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2018-10-21",
+"time": "18:10:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 19,
+"name": "Mexican Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2018-10-28",
+"time": "19:10:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 20,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2018-11-11",
+"time": "17:10:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2018,
+"round": 21,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2018-11-25",
+"time": "13:10:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2019": [
+{
+"season": 2019,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2019-03-17",
+"time": "05:10:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 2,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2019-03-31",
+"time": "15:10:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 3,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2019-04-14",
+"time": "06:10:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 4,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2019-04-28",
+"time": "12:10:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 5,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2019-05-12",
+"time": "13:10:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2019-05-26",
+"time": "13:10:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 7,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2019-06-09",
+"time": "18:10:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 8,
+"name": "French Grand Prix",
+"circuit": "Circuit Paul Ricard",
+"locality": "Le Castellet",
+"country": "France",
+"date": "2019-06-23",
+"time": "13:10:00Z",
+"lat": 43.2506,
+"lon": 5.79167,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 9,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2019-06-30",
+"time": "13:10:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 10,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2019-07-14",
+"time": "13:10:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 11,
+"name": "German Grand Prix",
+"circuit": "Hockenheimring",
+"locality": "Hockenheim",
+"country": "Germany",
+"date": "2019-07-28",
+"time": "13:10:00Z",
+"lat": 49.3278,
+"lon": 8.56583,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 12,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2019-08-04",
+"time": "13:10:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 13,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2019-09-01",
+"time": "13:10:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 14,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2019-09-08",
+"time": "13:10:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 15,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2019-09-22",
+"time": "12:10:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 16,
+"name": "Russian Grand Prix",
+"circuit": "Sochi Autodrom",
+"locality": "Sochi",
+"country": "Russia",
+"date": "2019-09-29",
+"time": "11:10:00Z",
+"lat": 43.4057,
+"lon": 39.9578,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 17,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2019-10-13",
+"time": "05:10:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 18,
+"name": "Mexican Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2019-10-27",
+"time": "19:10:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 19,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2019-11-03",
+"time": "19:10:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 20,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2019-11-17",
+"time": "17:10:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2019,
+"round": 21,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2019-12-01",
+"time": "13:10:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2020": [
+{
+"season": 2020,
+"round": 1,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2020-07-05",
+"time": "13:10:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 2,
+"name": "Styrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2020-07-12",
+"time": "13:10:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 3,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2020-07-19",
+"time": "13:10:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 4,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2020-08-02",
+"time": "13:10:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 5,
+"name": "70th Anniversary Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2020-08-09",
+"time": "13:10:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 6,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2020-08-16",
+"time": "13:10:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 7,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2020-08-30",
+"time": "13:10:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 8,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2020-09-06",
+"time": "13:10:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 9,
+"name": "Tuscan Grand Prix",
+"circuit": "Autodromo Internazionale del Mugello",
+"locality": "Mugello",
+"country": "Italy",
+"date": "2020-09-13",
+"time": "13:10:00Z",
+"lat": 43.9975,
+"lon": 11.3719,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 10,
+"name": "Russian Grand Prix",
+"circuit": "Sochi Autodrom",
+"locality": "Sochi",
+"country": "Russia",
+"date": "2020-09-27",
+"time": "11:10:00Z",
+"lat": 43.4057,
+"lon": 39.9578,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 11,
+"name": "Eifel Grand Prix",
+"circuit": "N\u00fcrburgring",
+"locality": "N\u00fcrburg",
+"country": "Germany",
+"date": "2020-10-11",
+"time": "13:10:00Z",
+"lat": 50.3356,
+"lon": 6.9475,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 12,
+"name": "Portuguese Grand Prix",
+"circuit": "Aut\u00f3dromo Internacional do Algarve",
+"locality": "Portim\u00e3o",
+"country": "Portugal",
+"date": "2020-10-25",
+"time": "12:10:00Z",
+"lat": 37.227,
+"lon": -8.6267,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 13,
+"name": "Emilia Romagna Grand Prix",
+"circuit": "Autodromo Enzo e Dino Ferrari",
+"locality": "Imola",
+"country": "Italy",
+"date": "2020-11-01",
+"time": "12:10:00Z",
+"lat": 44.3439,
+"lon": 11.7167,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 14,
+"name": "Turkish Grand Prix",
+"circuit": "Istanbul Park",
+"locality": "Istanbul",
+"country": "Turkey",
+"date": "2020-11-15",
+"time": "10:10:00Z",
+"lat": 40.9517,
+"lon": 29.405,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 15,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2020-11-29",
+"time": "14:10:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 16,
+"name": "Sakhir Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2020-12-06",
+"time": "17:10:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+},
+{
+"season": 2020,
+"round": 17,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2020-12-13",
+"time": "13:10:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica"
+],
+"openf1_session_key": null
+}
+],
+"2021": [
+{
+"season": 2021,
+"round": 1,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2021-03-28",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 2,
+"name": "Emilia Romagna Grand Prix",
+"circuit": "Autodromo Enzo e Dino Ferrari",
+"locality": "Imola",
+"country": "Italy",
+"date": "2021-04-18",
+"time": "13:00:00Z",
+"lat": 44.3439,
+"lon": 11.7167,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 3,
+"name": "Portuguese Grand Prix",
+"circuit": "Aut\u00f3dromo Internacional do Algarve",
+"locality": "Portim\u00e3o",
+"country": "Portugal",
+"date": "2021-05-02",
+"time": "14:00:00Z",
+"lat": 37.227,
+"lon": -8.6267,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 4,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2021-05-09",
+"time": "13:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 5,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2021-05-23",
+"time": "13:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 6,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2021-06-06",
+"time": "12:00:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 7,
+"name": "French Grand Prix",
+"circuit": "Circuit Paul Ricard",
+"locality": "Le Castellet",
+"country": "France",
+"date": "2021-06-20",
+"time": "13:00:00Z",
+"lat": 43.2506,
+"lon": 5.79167,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 8,
+"name": "Styrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2021-06-27",
+"time": "13:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 9,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2021-07-04",
+"time": "13:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 10,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2021-07-18",
+"time": "14:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": "2021-07-17",
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2021-08-01",
+"time": "13:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 12,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2021-08-29",
+"time": "13:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 13,
+"name": "Dutch Grand Prix",
+"circuit": "Circuit Park Zandvoort",
+"locality": "Zandvoort",
+"country": "Netherlands",
+"date": "2021-09-05",
+"time": "13:00:00Z",
+"lat": 52.3888,
+"lon": 4.54092,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 14,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2021-09-12",
+"time": "13:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": "2021-09-11",
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 15,
+"name": "Russian Grand Prix",
+"circuit": "Sochi Autodrom",
+"locality": "Sochi",
+"country": "Russia",
+"date": "2021-09-26",
+"time": "12:00:00Z",
+"lat": 43.4057,
+"lon": 39.9578,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 16,
+"name": "Turkish Grand Prix",
+"circuit": "Istanbul Park",
+"locality": "Istanbul",
+"country": "Turkey",
+"date": "2021-10-10",
+"time": "12:00:00Z",
+"lat": 40.9517,
+"lon": 29.405,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 17,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2021-10-24",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 18,
+"name": "Mexico City Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2021-11-07",
+"time": "19:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 19,
+"name": "S\u00e3o Paulo Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2021-11-14",
+"time": "17:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": "2021-11-13",
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 20,
+"name": "Qatar Grand Prix",
+"circuit": "Lusail International Circuit",
+"locality": "Lusail",
+"country": "Qatar",
+"date": "2021-11-21",
+"time": "14:00:00Z",
+"lat": 25.49,
+"lon": 51.4542,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 21,
+"name": "Saudi Arabian Grand Prix",
+"circuit": "Jeddah Corniche Circuit",
+"locality": "Jeddah",
+"country": "Saudi Arabia",
+"date": "2021-12-05",
+"time": "17:30:00Z",
+"lat": 21.6319,
+"lon": 39.1044,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2021,
+"round": 22,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2021-12-12",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+}
+],
+"2022": [
+{
+"season": 2022,
+"round": 1,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2022-03-20",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 2,
+"name": "Saudi Arabian Grand Prix",
+"circuit": "Jeddah Corniche Circuit",
+"locality": "Jeddah",
+"country": "Saudi Arabia",
+"date": "2022-03-27",
+"time": "17:00:00Z",
+"lat": 21.6319,
+"lon": 39.1044,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 3,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2022-04-10",
+"time": "05:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 4,
+"name": "Emilia Romagna Grand Prix",
+"circuit": "Autodromo Enzo e Dino Ferrari",
+"locality": "Imola",
+"country": "Italy",
+"date": "2022-04-24",
+"time": "13:00:00Z",
+"lat": 44.3439,
+"lon": 11.7167,
+"sprint_date": "2022-04-23",
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 5,
+"name": "Miami Grand Prix",
+"circuit": "Miami International Autodrome",
+"locality": "Miami",
+"country": "USA",
+"date": "2022-05-08",
+"time": "19:30:00Z",
+"lat": 25.9581,
+"lon": -80.2389,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 6,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2022-05-22",
+"time": "13:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 7,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2022-05-29",
+"time": "13:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 8,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2022-06-12",
+"time": "11:00:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 9,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2022-06-19",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 10,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2022-07-03",
+"time": "14:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 11,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2022-07-10",
+"time": "13:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": "2022-07-09",
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 12,
+"name": "French Grand Prix",
+"circuit": "Circuit Paul Ricard",
+"locality": "Le Castellet",
+"country": "France",
+"date": "2022-07-24",
+"time": "13:00:00Z",
+"lat": 43.2506,
+"lon": 5.79167,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 13,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2022-07-31",
+"time": "13:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 14,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2022-08-28",
+"time": "13:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 15,
+"name": "Dutch Grand Prix",
+"circuit": "Circuit Park Zandvoort",
+"locality": "Zandvoort",
+"country": "Netherlands",
+"date": "2022-09-04",
+"time": "13:00:00Z",
+"lat": 52.3888,
+"lon": 4.54092,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 16,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2022-09-11",
+"time": "13:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 17,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2022-10-02",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 18,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2022-10-09",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 19,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2022-10-23",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 20,
+"name": "Mexico City Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2022-10-30",
+"time": "20:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 21,
+"name": "S\u00e3o Paulo Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2022-11-13",
+"time": "18:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": "2022-11-12",
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2022,
+"round": 22,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2022-11-20",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+}
+],
+"2023": [
+{
+"season": 2023,
+"round": 1,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2023-03-05",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 7953
+},
+{
+"season": 2023,
+"round": 2,
+"name": "Saudi Arabian Grand Prix",
+"circuit": "Jeddah Corniche Circuit",
+"locality": "Jeddah",
+"country": "Saudi Arabia",
+"date": "2023-03-19",
+"time": "17:00:00Z",
+"lat": 21.6319,
+"lon": 39.1044,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 7779
+},
+{
+"season": 2023,
+"round": 3,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2023-04-02",
+"time": "05:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 7787
+},
+{
+"season": 2023,
+"round": 4,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2023-04-30",
+"time": "11:00:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": "2023-04-29",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9070
+},
+{
+"season": 2023,
+"round": 5,
+"name": "Miami Grand Prix",
+"circuit": "Miami International Autodrome",
+"locality": "Miami",
+"country": "USA",
+"date": "2023-05-07",
+"time": "19:30:00Z",
+"lat": 25.9581,
+"lon": -80.2389,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9078
+},
+{
+"season": 2023,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2023-05-28",
+"time": "13:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9094
+},
+{
+"season": 2023,
+"round": 7,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2023-06-04",
+"time": "13:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9102
+},
+{
+"season": 2023,
+"round": 8,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2023-06-18",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9110
+},
+{
+"season": 2023,
+"round": 9,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2023-07-02",
+"time": "13:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": "2023-07-01",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9118
+},
+{
+"season": 2023,
+"round": 10,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2023-07-09",
+"time": "14:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9126
+},
+{
+"season": 2023,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2023-07-23",
+"time": "13:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9133
+},
+{
+"season": 2023,
+"round": 12,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2023-07-30",
+"time": "13:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": "2023-07-29",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9141
+},
+{
+"season": 2023,
+"round": 13,
+"name": "Dutch Grand Prix",
+"circuit": "Circuit Park Zandvoort",
+"locality": "Zandvoort",
+"country": "Netherlands",
+"date": "2023-08-27",
+"time": "13:00:00Z",
+"lat": 52.3888,
+"lon": 4.54092,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9149
+},
+{
+"season": 2023,
+"round": 14,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2023-09-03",
+"time": "13:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9157
+},
+{
+"season": 2023,
+"round": 15,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2023-09-17",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9165
+},
+{
+"season": 2023,
+"round": 16,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2023-09-24",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9173
+},
+{
+"season": 2023,
+"round": 17,
+"name": "Qatar Grand Prix",
+"circuit": "Lusail International Circuit",
+"locality": "Lusail",
+"country": "Qatar",
+"date": "2023-10-08",
+"time": "17:00:00Z",
+"lat": 25.49,
+"lon": 51.4542,
+"sprint_date": "2023-10-07",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9221
+},
+{
+"season": 2023,
+"round": 18,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2023-10-22",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": "2023-10-21",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9213
+},
+{
+"season": 2023,
+"round": 19,
+"name": "Mexico City Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2023-10-29",
+"time": "20:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9181
+},
+{
+"season": 2023,
+"round": 20,
+"name": "S\u00e3o Paulo Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2023-11-05",
+"time": "17:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": "2023-11-04",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9205
+},
+{
+"season": 2023,
+"round": 21,
+"name": "Las Vegas Grand Prix",
+"circuit": "Las Vegas Strip Street Circuit",
+"locality": "Las Vegas",
+"country": "USA",
+"date": "2023-11-19",
+"time": "06:00:00Z",
+"lat": 36.1147,
+"lon": -115.173,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9189
+},
+{
+"season": 2023,
+"round": 22,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2023-11-26",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9197
+}
+],
+"2024": [
+{
+"season": 2024,
+"round": 1,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2024-03-02",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9472
+},
+{
+"season": 2024,
+"round": 2,
+"name": "Saudi Arabian Grand Prix",
+"circuit": "Jeddah Corniche Circuit",
+"locality": "Jeddah",
+"country": "Saudi Arabia",
+"date": "2024-03-09",
+"time": "17:00:00Z",
+"lat": 21.6319,
+"lon": 39.1044,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9480
+},
+{
+"season": 2024,
+"round": 3,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2024-03-24",
+"time": "04:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9488
+},
+{
+"season": 2024,
+"round": 4,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2024-04-07",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9496
+},
+{
+"season": 2024,
+"round": 5,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2024-04-21",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": "2024-04-20",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9673
+},
+{
+"season": 2024,
+"round": 6,
+"name": "Miami Grand Prix",
+"circuit": "Miami International Autodrome",
+"locality": "Miami",
+"country": "USA",
+"date": "2024-05-05",
+"time": "20:00:00Z",
+"lat": 25.9581,
+"lon": -80.2389,
+"sprint_date": "2024-05-04",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9507
+},
+{
+"season": 2024,
+"round": 7,
+"name": "Emilia Romagna Grand Prix",
+"circuit": "Autodromo Enzo e Dino Ferrari",
+"locality": "Imola",
+"country": "Italy",
+"date": "2024-05-19",
+"time": "13:00:00Z",
+"lat": 44.3439,
+"lon": 11.7167,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9515
+},
+{
+"season": 2024,
+"round": 8,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2024-05-26",
+"time": "13:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9523
+},
+{
+"season": 2024,
+"round": 9,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2024-06-09",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9531
+},
+{
+"season": 2024,
+"round": 10,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2024-06-23",
+"time": "13:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9539
+},
+{
+"season": 2024,
+"round": 11,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2024-06-30",
+"time": "13:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": "2024-06-29",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9550
+},
+{
+"season": 2024,
+"round": 12,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2024-07-07",
+"time": "14:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9558
+},
+{
+"season": 2024,
+"round": 13,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2024-07-21",
+"time": "13:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9566
+},
+{
+"season": 2024,
+"round": 14,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2024-07-28",
+"time": "13:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9574
+},
+{
+"season": 2024,
+"round": 15,
+"name": "Dutch Grand Prix",
+"circuit": "Circuit Park Zandvoort",
+"locality": "Zandvoort",
+"country": "Netherlands",
+"date": "2024-08-25",
+"time": "13:00:00Z",
+"lat": 52.3888,
+"lon": 4.54092,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9582
+},
+{
+"season": 2024,
+"round": 16,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2024-09-01",
+"time": "13:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9590
+},
+{
+"season": 2024,
+"round": 17,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2024-09-15",
+"time": "11:00:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9598
+},
+{
+"season": 2024,
+"round": 18,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2024-09-22",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9606
+},
+{
+"season": 2024,
+"round": 19,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2024-10-20",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": "2024-10-19",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9617
+},
+{
+"season": 2024,
+"round": 20,
+"name": "Mexico City Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2024-10-27",
+"time": "20:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9625
+},
+{
+"season": 2024,
+"round": 21,
+"name": "S\u00e3o Paulo Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2024-11-03",
+"time": "17:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": "2024-11-02",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9636
+},
+{
+"season": 2024,
+"round": 22,
+"name": "Las Vegas Grand Prix",
+"circuit": "Las Vegas Strip Street Circuit",
+"locality": "Las Vegas",
+"country": "USA",
+"date": "2024-11-23",
+"time": "06:00:00Z",
+"lat": 36.1147,
+"lon": -115.173,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1"
+],
+"openf1_session_key": null
+},
+{
+"season": 2024,
+"round": 23,
+"name": "Qatar Grand Prix",
+"circuit": "Lusail International Circuit",
+"locality": "Lusail",
+"country": "Qatar",
+"date": "2024-12-01",
+"time": "16:00:00Z",
+"lat": 25.49,
+"lon": 51.4542,
+"sprint_date": "2024-11-30",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9655
+},
+{
+"season": 2024,
+"round": 24,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2024-12-08",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9662
+}
+],
+"2025": [
+{
+"season": 2025,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2025-03-16",
+"time": "04:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9693
+},
+{
+"season": 2025,
+"round": 2,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2025-03-23",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": "2025-03-22",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9998
+},
+{
+"season": 2025,
+"round": 3,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2025-04-06",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 10006
+},
+{
+"season": 2025,
+"round": 4,
+"name": "Bahrain Grand Prix",
+"circuit": "Bahrain International Circuit",
+"locality": "Sakhir",
+"country": "Bahrain",
+"date": "2025-04-13",
+"time": "15:00:00Z",
+"lat": 26.0325,
+"lon": 50.5106,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 10014
+},
+{
+"season": 2025,
+"round": 5,
+"name": "Saudi Arabian Grand Prix",
+"circuit": "Jeddah Corniche Circuit",
+"locality": "Jeddah",
+"country": "Saudi Arabia",
+"date": "2025-04-20",
+"time": "17:00:00Z",
+"lat": 21.6319,
+"lon": 39.1044,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 10022
+},
+{
+"season": 2025,
+"round": 6,
+"name": "Miami Grand Prix",
+"circuit": "Miami International Autodrome",
+"locality": "Miami",
+"country": "USA",
+"date": "2025-05-04",
+"time": "20:00:00Z",
+"lat": 25.9581,
+"lon": -80.2389,
+"sprint_date": "2025-05-03",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 10033
+},
+{
+"season": 2025,
+"round": 7,
+"name": "Emilia Romagna Grand Prix",
+"circuit": "Autodromo Enzo e Dino Ferrari",
+"locality": "Imola",
+"country": "Italy",
+"date": "2025-05-18",
+"time": "13:00:00Z",
+"lat": 44.3439,
+"lon": 11.7167,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9987
+},
+{
+"season": 2025,
+"round": 8,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2025-05-25",
+"time": "13:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9979
+},
+{
+"season": 2025,
+"round": 9,
+"name": "Spanish Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2025-06-01",
+"time": "13:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9971
+},
+{
+"season": 2025,
+"round": 10,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2025-06-15",
+"time": "18:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9963
+},
+{
+"season": 2025,
+"round": 11,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2025-06-29",
+"time": "13:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9955
+},
+{
+"season": 2025,
+"round": 12,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2025-07-06",
+"time": "14:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9947
+},
+{
+"season": 2025,
+"round": 13,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2025-07-27",
+"time": "13:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": "2025-07-26",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9939
+},
+{
+"season": 2025,
+"round": 14,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2025-08-03",
+"time": "13:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9928
+},
+{
+"season": 2025,
+"round": 15,
+"name": "Dutch Grand Prix",
+"circuit": "Circuit Park Zandvoort",
+"locality": "Zandvoort",
+"country": "Netherlands",
+"date": "2025-08-31",
+"time": "13:00:00Z",
+"lat": 52.3888,
+"lon": 4.54092,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9920
+},
+{
+"season": 2025,
+"round": 16,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2025-09-07",
+"time": "13:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9912
+},
+{
+"season": 2025,
+"round": 17,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2025-09-21",
+"time": "11:00:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9904
+},
+{
+"season": 2025,
+"round": 18,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2025-10-05",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9896
+},
+{
+"season": 2025,
+"round": 19,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2025-10-19",
+"time": "19:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": "2025-10-18",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9888
+},
+{
+"season": 2025,
+"round": 20,
+"name": "Mexico City Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2025-10-26",
+"time": "20:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9877
+},
+{
+"season": 2025,
+"round": 21,
+"name": "S\u00e3o Paulo Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2025-11-09",
+"time": "17:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": "2025-11-08",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9869
+},
+{
+"season": 2025,
+"round": 22,
+"name": "Las Vegas Grand Prix",
+"circuit": "Las Vegas Strip Street Circuit",
+"locality": "Las Vegas",
+"country": "USA",
+"date": "2025-11-23",
+"time": "04:00:00Z",
+"lat": 36.1147,
+"lon": -115.173,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9858
+},
+{
+"season": 2025,
+"round": 23,
+"name": "Qatar Grand Prix",
+"circuit": "Lusail International Circuit",
+"locality": "Lusail",
+"country": "Qatar",
+"date": "2025-11-30",
+"time": "16:00:00Z",
+"lat": 25.49,
+"lon": 51.4542,
+"sprint_date": "2025-11-29",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9850
+},
+{
+"season": 2025,
+"round": 24,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2025-12-07",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 9839
+}
+],
+"2026": [
+{
+"season": 2026,
+"round": 1,
+"name": "Australian Grand Prix",
+"circuit": "Albert Park Grand Prix Circuit",
+"locality": "Melbourne",
+"country": "Australia",
+"date": "2026-03-08",
+"time": "04:00:00Z",
+"lat": -37.8497,
+"lon": 144.968,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11234
+},
+{
+"season": 2026,
+"round": 2,
+"name": "Chinese Grand Prix",
+"circuit": "Shanghai International Circuit",
+"locality": "Shanghai",
+"country": "China",
+"date": "2026-03-15",
+"time": "07:00:00Z",
+"lat": 31.3389,
+"lon": 121.22,
+"sprint_date": "2026-03-14",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11245
+},
+{
+"season": 2026,
+"round": 3,
+"name": "Japanese Grand Prix",
+"circuit": "Suzuka Circuit",
+"locality": "Suzuka",
+"country": "Japan",
+"date": "2026-03-29",
+"time": "05:00:00Z",
+"lat": 34.8431,
+"lon": 136.541,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11253
+},
+{
+"season": 2026,
+"round": 4,
+"name": "Miami Grand Prix",
+"circuit": "Miami International Autodrome",
+"locality": "Miami",
+"country": "USA",
+"date": "2026-05-03",
+"time": "20:00:00Z",
+"lat": 25.9581,
+"lon": -80.2389,
+"sprint_date": "2026-05-02",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11280
+},
+{
+"season": 2026,
+"round": 5,
+"name": "Canadian Grand Prix",
+"circuit": "Circuit Gilles Villeneuve",
+"locality": "Montreal",
+"country": "Canada",
+"date": "2026-05-24",
+"time": "20:00:00Z",
+"lat": 45.5,
+"lon": -73.5228,
+"sprint_date": "2026-05-23",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11291
+},
+{
+"season": 2026,
+"round": 6,
+"name": "Monaco Grand Prix",
+"circuit": "Circuit de Monaco",
+"locality": "Monte Carlo",
+"country": "Monaco",
+"date": "2026-06-07",
+"time": "13:00:00Z",
+"lat": 43.7347,
+"lon": 7.42056,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11299
+},
+{
+"season": 2026,
+"round": 7,
+"name": "Barcelona Grand Prix",
+"circuit": "Circuit de Barcelona-Catalunya",
+"locality": "Barcelona",
+"country": "Spain",
+"date": "2026-06-14",
+"time": "13:00:00Z",
+"lat": 41.57,
+"lon": 2.26111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11307
+},
+{
+"season": 2026,
+"round": 8,
+"name": "Austrian Grand Prix",
+"circuit": "Red Bull Ring",
+"locality": "Spielberg",
+"country": "Austria",
+"date": "2026-06-28",
+"time": "13:00:00Z",
+"lat": 47.2197,
+"lon": 14.7647,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11315
+},
+{
+"season": 2026,
+"round": 9,
+"name": "British Grand Prix",
+"circuit": "Silverstone Circuit",
+"locality": "Silverstone",
+"country": "UK",
+"date": "2026-07-05",
+"time": "14:00:00Z",
+"lat": 52.0786,
+"lon": -1.01694,
+"sprint_date": "2026-07-04",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11326
+},
+{
+"season": 2026,
+"round": 10,
+"name": "Belgian Grand Prix",
+"circuit": "Circuit de Spa-Francorchamps",
+"locality": "Spa",
+"country": "Belgium",
+"date": "2026-07-19",
+"time": "13:00:00Z",
+"lat": 50.4372,
+"lon": 5.97139,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11334
+},
+{
+"season": 2026,
+"round": 11,
+"name": "Hungarian Grand Prix",
+"circuit": "Hungaroring",
+"locality": "Budapest",
+"country": "Hungary",
+"date": "2026-07-26",
+"time": "13:00:00Z",
+"lat": 47.5789,
+"lon": 19.2486,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11342
+},
+{
+"season": 2026,
+"round": 12,
+"name": "Dutch Grand Prix",
+"circuit": "Circuit Park Zandvoort",
+"locality": "Zandvoort",
+"country": "Netherlands",
+"date": "2026-08-23",
+"time": "13:00:00Z",
+"lat": 52.3888,
+"lon": 4.54092,
+"sprint_date": "2026-08-22",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11353
+},
+{
+"season": 2026,
+"round": 13,
+"name": "Italian Grand Prix",
+"circuit": "Autodromo Nazionale di Monza",
+"locality": "Monza",
+"country": "Italy",
+"date": "2026-09-06",
+"time": "13:00:00Z",
+"lat": 45.6156,
+"lon": 9.28111,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11361
+},
+{
+"season": 2026,
+"round": 14,
+"name": "Spanish Grand Prix",
+"circuit": "Madring",
+"locality": "Madrid",
+"country": "Spain",
+"date": "2026-09-13",
+"time": "13:00:00Z",
+"lat": 40.46528,
+"lon": -3.61528,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11369
+},
+{
+"season": 2026,
+"round": 15,
+"name": "Azerbaijan Grand Prix",
+"circuit": "Baku City Circuit",
+"locality": "Baku",
+"country": "Azerbaijan",
+"date": "2026-09-26",
+"time": "11:00:00Z",
+"lat": 40.3725,
+"lon": 49.8533,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11377
+},
+{
+"season": 2026,
+"round": 16,
+"name": "Bahrain Grand Prix in Malaysia",
+"circuit": "Sepang International Circuit",
+"locality": "Kuala Lumpur",
+"country": "Malaysia",
+"date": "2026-10-04",
+"time": "07:00:00Z",
+"lat": 2.76083,
+"lon": 101.738,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11731
+},
+{
+"season": 2026,
+"round": 17,
+"name": "Singapore Grand Prix",
+"circuit": "Marina Bay Street Circuit",
+"locality": "Marina Bay",
+"country": "Singapore",
+"date": "2026-10-11",
+"time": "12:00:00Z",
+"lat": 1.2914,
+"lon": 103.864,
+"sprint_date": "2026-10-10",
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11388
+},
+{
+"season": 2026,
+"round": 18,
+"name": "United States Grand Prix",
+"circuit": "Circuit of the Americas",
+"locality": "Austin",
+"country": "USA",
+"date": "2026-10-25",
+"time": "20:00:00Z",
+"lat": 30.1328,
+"lon": -97.6411,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11396
+},
+{
+"season": 2026,
+"round": 19,
+"name": "Mexico City Grand Prix",
+"circuit": "Aut\u00f3dromo Hermanos Rodr\u00edguez",
+"locality": "Mexico City",
+"country": "Mexico",
+"date": "2026-11-01",
+"time": "20:00:00Z",
+"lat": 19.4042,
+"lon": -99.0907,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11404
+},
+{
+"season": 2026,
+"round": 20,
+"name": "Brazilian Grand Prix",
+"circuit": "Aut\u00f3dromo Jos\u00e9 Carlos Pace",
+"locality": "S\u00e3o Paulo",
+"country": "Brazil",
+"date": "2026-11-08",
+"time": "17:00:00Z",
+"lat": -23.7036,
+"lon": -46.6997,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11412
+},
+{
+"season": 2026,
+"round": 21,
+"name": "Las Vegas Grand Prix",
+"circuit": "Las Vegas Strip Street Circuit",
+"locality": "Las Vegas",
+"country": "USA",
+"date": "2026-11-22",
+"time": "04:00:00Z",
+"lat": 36.1147,
+"lon": -115.173,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11420
+},
+{
+"season": 2026,
+"round": 22,
+"name": "Qatar Grand Prix",
+"circuit": "Lusail International Circuit",
+"locality": "Lusail",
+"country": "Qatar",
+"date": "2026-11-29",
+"time": "16:00:00Z",
+"lat": 25.49,
+"lon": 51.4542,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11428
+},
+{
+"season": 2026,
+"round": 23,
+"name": "Abu Dhabi Grand Prix",
+"circuit": "Yas Marina Circuit",
+"locality": "Abu Dhabi",
+"country": "UAE",
+"date": "2026-12-06",
+"time": "13:00:00Z",
+"lat": 24.4672,
+"lon": 54.6031,
+"sprint_date": null,
+"sources": [
+"jolpica",
+"fastf1",
+"openf1"
+],
+"openf1_session_key": 11436
+}
+]
+}
+}
