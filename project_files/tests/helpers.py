@@ -46,7 +46,7 @@ def build(meta, **tables):
 
 
 # ---------------------------------------------------------------- skips when race data is not on disk
-SKIP_REASON = "needs the full race library, which is in the zip on the Releases page"
+SKIP_REASON = "needs the race bundles and the full race library, which are not in this repository"
 
 
 def _root():

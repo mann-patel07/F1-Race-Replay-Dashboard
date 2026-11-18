@@ -20,7 +20,7 @@ There are two ways. The first one has a single race. The second one has every ra
 
 Just this repository (one race). Click the green Code button on this page, then Download ZIP. Unzip it, open the folder and double click `click_here.html`. It opens in your browser with the 2025 Dutch Grand Prix, the only race that is stored in the repository files.
 
-Every race. Open the Releases page of this repository (it is on the right side of the repository page) and download `F1_Dashboard_20261118.zip`. It is 0.65 GB. Unzip it (1.80 GB) and double click `click_here.html`. The library then opens every race.
+Every race. Open the Releases page of this repository (it is on the right side of the repository page) and download `F1_Dashboard_20261118.zip`. It is 0.65 GB, and its SHA-256 is `4020e6c19f95856d81717aed6377f50d1dd24a0bf61ca2f75225db16660da63b`, so you can check the download. Unzip it (1.80 GB) and double click `click_here.html`. The library then opens every race.
 
 You do not need an account, a sign-in, an install or an internet connection for either way. I tested the page in Chromium, which is the engine inside Chrome, so Chrome is the browser I can vouch for. I did not test Safari or Firefox. On a Mac, if a double click opens a different app, right click `click_here.html`, choose Open With and pick your browser.
 
@@ -107,7 +107,7 @@ To rebuild the page data from the bundles you already have, and to write the vie
 .venv/bin/python -m pytest
 ```
 
-The tests are in this repository. On my computer, with every race on disk, there are 139 tests in 11 files, and they all pass. They check that the JavaScript engine gives the same answers as the Python engine, that nothing from the future is used, the layout of the page at three window sizes, the update run, the viewing zip, the column packing and the builders. In a copy of this repository, which holds one race, 86 tests pass and 53 skip. The skipped tests need the full race library from the Releases page and its bundles, and they say so when they skip.
+The tests are in this repository. On my computer, with every race on disk, there are 139 tests in 11 files, and they all pass. They check that the JavaScript engine gives the same answers as the Python engine, that nothing from the future is used, the layout of the page at three window sizes, the update run, the viewing zip, the column packing and the builders. A copy of this repository holds one race. There, 86 tests pass and 53 skip. The skipped tests need the original race bundles (`data/bundle/`) and the full race folders. The bundles stay on my computer and are not in the zip, and the tests say so when they skip. I ran the tests with Python 3.12.5 on macOS.
 
 ## Limits
 
