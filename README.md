@@ -107,7 +107,7 @@ To rebuild the page data from the bundles you already have, and to write the vie
 .venv/bin/python -m pytest
 ```
 
-The tests are in this repository. On my computer, with every race on disk, there are 139 tests in 11 files, and they all pass. They check that the JavaScript engine gives the same answers as the Python engine, that nothing from the future is used, the layout of the page at three window sizes, the update run, the viewing zip, the column packing and the builders. A copy of this repository holds one race. There, 86 tests pass and 53 skip. The skipped tests need the original race bundles (`data/bundle/`) and the full race folders. The bundles stay on my computer and are not in the zip, and the tests say so when they skip. I ran the tests with Python 3.12.5 on macOS.
+The tests are in this repository. On my computer, with every race on disk, there are 139 tests in 11 files, and they all pass. They check that the JavaScript engine gives the same answers as the Python engine, that nothing from the future is used, the layout of the page at three window sizes, the update run, the viewing zip, the column packing and the builders. A copy of this repository holds one race. There, 86 tests pass and 53 skip. The skipped tests need the original race bundles (`data/bundle/`) and the full race folders. The bundles stay on my computer and are not in the zip, and the tests say so when they skip. Tested with Python 3.12.5 on macOS.
 
 ## Limits
 
@@ -116,6 +116,7 @@ The tests are in this repository. On my computer, with every race on disk, there
 - Gaps in lap-only races are computed from lap times and ignore time lost before the start line on lap 1. Team colours for old seasons are generated.
 - Remaining time, pit loss, the rejoin position, the undercut flag, mini-sectors and the OUT status are estimates or heuristics, and the page labels them.
 - Projected standings use the standard points table of the season. Half points and double points are not applied.
+- A driver who did not start still gets a row in the tower, shown as `n/a`, and that driver also shows on the track map when the timing feed has position data. Bottas in the 2026 São Paulo Grand Prix is an example: the release shows `BOT 77` this way.
 - The repository files hold only the 2025 Dutch Grand Prix. In that copy the library marks every other race as Not downloaded. The zip on the Releases page has them all.
 
 ## Data source
