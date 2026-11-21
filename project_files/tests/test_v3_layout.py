@@ -7,7 +7,7 @@ HOME_MARK = "/Us" + "ers/"
 
 
 def test_layout_moves_everything_and_second_run_changes_nothing(tmp_path):
-    for name in (".git", ".github", ".venv", "Claude outputs", "data", "web", "click_here.app", "F1 Dashboard.app"):
+    for name in (".git", ".github", ".venv", "data", "web", "click_here.app", "F1 Dashboard.app"):
         (tmp_path / name).mkdir()
         (tmp_path / name / "f.txt").write_text(name)
     for name in ("run.py", "README.md", ".gitignore", ".DS_Store", "click_here.html", "click_here_windows.bat", "Start F1 Dashboard.bat"):
@@ -16,7 +16,7 @@ def test_layout_moves_everything_and_second_run_changes_nothing(tmp_path):
     moved = make_layout.migrate(tmp_path)
     assert set(p.name for p in tmp_path.iterdir()) == {".git", ".github", "project_files", "click_here.html"}
     inside = {p.name for p in (tmp_path / "project_files").iterdir()}
-    assert {".venv", "Claude outputs", "data", "web", "run.py", "README.md", ".gitignore", ".DS_Store"} <= inside
+    assert {".venv", "data", "web", "run.py", "README.md", ".gitignore", ".DS_Store"} <= inside
     assert "F1 Dashboard.app" not in inside and "Start F1 Dashboard.bat" not in inside and "click_here.app" not in inside
     assert (tmp_path / "project_files" / "data" / "f.txt").read_text() == "data"
     assert (tmp_path / ".git" / "f.txt").exists() and (tmp_path / ".github" / "f.txt").exists()

@@ -1,6 +1,6 @@
 """Remove the saved F1TV sign-in from this Mac, but only when both downloads are finished.
 
-Run it by double-clicking forget_f1tv_signin.command. The app and Claude never run it."""
+Run it by double-clicking forget_f1tv_signin.command. The app never runs it."""
 import subprocess
 import sys
 from pathlib import Path
