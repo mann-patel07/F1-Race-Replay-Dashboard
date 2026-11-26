@@ -1,5 +1,7 @@
 # F1 race replay dashboard
 
+I have stopped working on this project. It stays here as it was on 18 November 2026, and I am not updating the data, the code or the release.
+
 This is a web page that replays Formula 1 races from saved timing data. It runs in the browser from a double click, with no server and no internet. You watch a race lap by lap with a timing tower, a track map, car telemetry, race control messages, weather, tyre strategy and lap pace charts. The full library has 431 replays from 2007 to 2026: 134 full races, 30 sprints and 267 lap-only races.
 
 ![Timing tower, track map and telemetry during the 2026 Sao Paulo Grand Prix](project_files/screenshots/readme/1_replay.png)
@@ -107,7 +109,7 @@ To rebuild the page data from the bundles you already have, and to write the vie
 .venv/bin/python -m pytest
 ```
 
-The tests are in this repository. On my computer, with every race on disk, there are 139 tests in 11 files, and they all pass. They check that the JavaScript engine gives the same answers as the Python engine, that nothing from the future is used, the layout of the page at three window sizes, the update run, the viewing zip, the column packing and the builders. A copy of this repository holds one race. There, 86 tests pass and 53 skip. The skipped tests need the original race bundles (`data/bundle/`) and the full race folders. The bundles stay on my computer and are not in the zip, and the tests say so when they skip. Tested with Python 3.12.5 on macOS.
+The tests are in this repository. On my computer, with every race on disk, there are 139 tests in 11 files, and they all pass. They check that the JavaScript engine gives the same answers as the Python engine, that nothing from the future is used, the layout of the page at three window sizes, the update run, the viewing zip, the column packing and the builders. A copy of this repository holds one race. There, 86 tests passed and 53 skipped when I last ran them on 18 November 2026. Since 23 November 2026 one test fails, because it compares a race date in the saved library with today's date, and I am not updating the library. The skipped tests need the original race bundles (`data/bundle/`) and the full race folders. The bundles stay on my computer and are not in the zip, and the tests say so when they skip. Tested with Python 3.12.5 on macOS.
 
 ## Limits
 
